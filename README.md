@@ -1,2 +1,2 @@
-# Prepcourse-Henry
-Este es un repositorio de prueba del mod 2 de henry
+prueba de como crear un repositorio y clonarlo desde glithub a mi computadora
+
